@@ -1,0 +1,27 @@
+ 
+        		XYZ-Inventory
+      Phone No. 9876xxxx , Mumbai-487552
+      Mob No. 9848xxxx
+    	  GST No.  : 2755xx56498
+    	  FASI No. : 654198x949849
+================================================
+    Bill No. : 102700		       Date: 10/12/2022
+    Customer Name: dfkjng
+    Contact No. : 987561
+================================================
+    Product Name				QTY	Price
+================================================
+        
+ Rusk			10	(₹)7500.0
+ Milk			10	(₹)2500.0
+================================================
+    Bill Amount				(₹)10000.0
+    Discount				(₹)100.0
+    Net Amount				(₹)9900.0
+    
+
+
+
+
+  Customer Sign
+        

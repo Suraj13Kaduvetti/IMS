@@ -1,0 +1,28 @@
+ 
+        		XYZ-Inventory
+      Phone No. 9876xxxx , Mumbai-487552
+      Mob No. 9848xxxx
+    	  GST No.  : 2755xx56498
+    	  FASI No. : 654198x949849
+================================================
+    Bill No. : 123517		       Date: 26/11/2022
+    Customer Name: D'Souza
+    Contact No. : 34120
+================================================
+    Product Name				QTY	Price
+================================================
+        
+ Rusk			1	(₹)75.0
+ Haldi(Turmeric)			1	(₹)29.0
+ Monaco			1	(₹)30.0
+================================================
+    Bill Amount				(₹)134.0
+    Discount				(₹)13.4
+    Net Amount				(₹)120.6
+    
+
+
+
+
+  Customer Sign
+        

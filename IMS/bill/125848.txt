@@ -1,0 +1,26 @@
+ 
+        		XYZ-Inventory
+      Phone No. 9876xxxx , Mumbai-487552
+      Mob No. 9848xxxx
+    	  GST No.  : 2755xx56498
+    	  FASI No. : 654198x949849
+================================================
+    Bill No. : 125848		       Date: 10/12/2022
+    Customer Name: Sahe
+    Contact No. : 5422555
+================================================
+    Product Name				QTY	Price
+================================================
+        
+ Rusk			1	(₹)75.0
+================================================
+    Bill Amount				(₹)75.0
+    Discount				(₹)0.75
+    Net Amount				(₹)74.25
+    
+
+
+
+
+  Customer Sign
+        

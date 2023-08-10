@@ -1,0 +1,26 @@
+ 
+        		XYZ-Inventory
+      Phone No. 9876xxxx , Mumbai-487552
+      Mob No. 9848xxxx
+    	  GST No.  : 2755xx56498
+    	  FASI No. : 654198x949849
+================================================
+    Bill No. : 124804		       Date: 26/11/2022
+    Customer Name: hgv
+    Contact No. : 786
+================================================
+    Product Name				QTY	Price
+================================================
+        
+ Vanilla			200	(₹)1800000.0
+================================================
+    Bill Amount				(₹)0
+    Discount				(₹)0
+    Net Amount				(₹)0
+    
+
+
+
+
+  Customer Sign
+        

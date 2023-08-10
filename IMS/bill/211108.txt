@@ -1,0 +1,26 @@
+ 
+        		XYZ-Inventory
+      Phone No. 9876xxxx , Mumbai-487552
+      Mob No. 9848xxxx
+    	  GST No.  : 2755xx56498
+    	  FASI No. : 654198x949849
+================================================
+    Bill No. : 211108		       Date: 25/08/2022
+    Customer Name: dfbdsbs
+    Contact No. : 524257
+================================================
+    Product Name				QTY	Price
+================================================
+        
+ gdturkikiyk			7000000	(₹)3.6309e+16
+================================================
+    Bill Amount				(₹)3.6309e+16
+    Discount				(₹)726180000000000.0
+    Net Amount				(₹)3.558282e+16
+    
+
+
+
+
+  Customer Sign
+        

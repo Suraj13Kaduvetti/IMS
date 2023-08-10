@@ -1,0 +1,26 @@
+ 
+        		XYZ-Inventory
+      Phone No. 9876xxxx , Mumbai-487552
+      Mob No. 9848xxxx
+    	  GST No.  : 2755xx56498
+    	  FASI No. : 654198x949849
+================================================
+    Bill No. : 053527		       Date: 25/08/2022
+    Customer Name: vnc  c
+    Contact No. : 46344456343
+================================================
+    Product Name				QTY	Price
+================================================
+        
+ gdturkikiyk			1	(₹)741.0
+================================================
+    Bill Amount				(₹)741.0
+    Discount				(₹)14.82
+    Net Amount				(₹)726.18
+    
+
+
+
+
+  Customer Sign
+        

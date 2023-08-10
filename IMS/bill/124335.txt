@@ -1,0 +1,29 @@
+ 
+        		XYZ-Inventory
+      Phone No. 9876xxxx , Mumbai-487552
+      Mob No. 9848xxxx
+    	  GST No.  : 2755xx56498
+    	  FASI No. : 654198x949849
+================================================
+    Bill No. : 124335		       Date: 10/12/2022
+    Customer Name: Sureaj
+    Contact No. : 65412
+================================================
+    Product Name				QTY	Price
+================================================
+        
+ Milk			1	(₹)25.0
+ Premier			1	(₹)65.0
+ Rusk			10	(₹)7500.0
+ Tea			100	(₹)600000.0
+================================================
+    Bill Amount				(₹)607590.0
+    Discount				(₹)6075.9
+    Net Amount				(₹)601514.1
+    
+
+
+
+
+  Customer Sign
+        
